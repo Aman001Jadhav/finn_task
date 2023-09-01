@@ -119,7 +119,7 @@ class BluetoothManager {
       return success;
     } on PlatformException catch (e) {
       print('Error: ${e.message}');
-      print("Enable Failed");
+      print("Enable Failedd");
 
       return false;
     }
