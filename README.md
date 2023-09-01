@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Note: Please run the Flutter Pub get after downloading.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
